@@ -19,4 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 - RESULTADOS
 - Haydee Esmeralda Jimenez Guevara
-- ![image](https://github.com/HEJimGuev/UIII_Act1_Login/assets/143548108/e922b746-3e6a-4609-b62e-80ea408f3c54)
+- BACKGROUND LISO
+  ![image](https://github.com/HEJimGuev/UIII_Act1_Login/assets/143548108/e922b746-3e6a-4609-b62e-80ea408f3c54)
+- DIFERENTE BACKGROUND
+  ![image](https://github.com/HEJimGuev/UIII_Act1_Login/assets/143548108/f760ef30-056b-463c-b18c-e913150a106c)
