@@ -128,7 +128,7 @@ class Login extends StatelessWidget {
                             ],
                           ),
                           decoration: BoxDecoration(
-                              color: Color(0x510194d8),
+                              color: Color(0x510133d8),
                               borderRadius: BorderRadius.only(
                                   bottomLeft: Radius.circular(20),
                                   bottomRight: Radius.circular(20))),
