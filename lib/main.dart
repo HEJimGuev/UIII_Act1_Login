@@ -15,6 +15,7 @@ class Login extends StatelessWidget {
           // useMaterial3: false,
 
           visualDensity: VisualDensity.adaptivePlatformDensity),
+      debugShowCheckedModeBanner: false,
       // A widget which will be started on application startup
       home: Container(
         decoration: BoxDecoration(
